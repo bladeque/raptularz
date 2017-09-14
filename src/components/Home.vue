@@ -18,7 +18,7 @@ export default {
       nextPage: null,
       loadingVideos: false,
       playlistId: 'PLPbW7txEM2AXvs7GkSuCtk9RyCWuSmXQT',
-      apiKey: 'AIzaSyDchGldtcY9dvfb7Fp76DJyjGu9ma3M6Lc'
+      apiKey: '<YOUR_API_KEY_HERE>'
     }
   },
   methods: {
